@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\SundusD\Desktop\Pratikler\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\SundusD\Desktop\Pratikler\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\SundusD\Desktop\Pratikler\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\OOP\obj\Debug\net6.0\ref\OOP.dll
